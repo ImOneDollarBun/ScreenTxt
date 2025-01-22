@@ -14,7 +14,7 @@
 ## Установка / Installation
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo/text-recognizer.git
+   git clone https://github.com/ImOneDollarBun/ScreenTxt/text-recognizer.git
    cd text-recognizer
 2. Установите зависимости:
    ```bash
