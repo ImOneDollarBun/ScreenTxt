@@ -34,6 +34,6 @@
 Для удобного запуска можно использовать `pyinstaller` для упаковки в `.exe`:
    ```bash
    pip install pyinstaller
-   pyinstaller --onefile --noconsole text_recognizer.py
+   pyinstaller --onefile --noconsole text_detect.py
 
     
