@@ -14,8 +14,8 @@
 ## Установка / Installation
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ImOneDollarBun/ScreenTxt/text-recognizer.git
-   cd text-recognizer
+   git clone https://github.com/ImOneDollarBun/ScreenTxt.git
+   cd Screehtxt
 2. Установите зависимости:
    ```bash
    pip install -r requirements.txt
@@ -23,7 +23,7 @@
 ## Использование / Usage
 1. Запуск приложения:
     ```bash
-   py text_recognizer.py
+   py text_detect.py
 
 2. Использование:
    ```text
